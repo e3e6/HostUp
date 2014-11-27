@@ -1,0 +1,1 @@
+start %JAVA_HOME%\bin\java -jar HostUp.jar 
